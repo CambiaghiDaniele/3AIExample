@@ -1,0 +1,8 @@
+comandi 
+
+cd <nome> //per navigare
+dir //per vedere i file
+git add <nome file>
+git stage <nome file> //per fare il commit
+git commit -m "<descrizione>" // per il commit
+git push //per caricarlo sul cloud
